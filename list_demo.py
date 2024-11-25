@@ -34,3 +34,5 @@ print(friendlist)
 favouritcity=["delhi","mumbai","goa","punjab","jaipur"]
 favouritcity.append("kasol")
 print(favouritcity)
+
+ 
